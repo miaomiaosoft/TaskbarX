@@ -5,7 +5,7 @@ TaskbarX FOR WIN7
 - 本程序基于图拉丁硬件检测源码：www.tbtool.cc [秃顶的小P孩/86738619]
 
 #### 功能：
-- CPU/GPU占用
+- CPU/GPU/内存占用
 - CPU/GPU温度
 - 上行/下行网络速度
 - 实时测试IP/网站延迟[PING/TCPING]

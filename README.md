@@ -16,6 +16,8 @@ TaskbarX FOR WIN7
 
 https://github.com/miaomiaosoft/TaskbarX/releases
 
+![image](https://raw.githubusercontent.com/miaomiaosoft/TaskbarX/master/images/2020-02-25_182130.jpg)
+
 ![image](https://raw.githubusercontent.com/miaomiaosoft/TaskbarX/master/images/image02.jpg)
 
 ![image](https://raw.githubusercontent.com/miaomiaosoft/TaskbarX/master/images/image01.jpg)

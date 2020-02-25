@@ -1,8 +1,4 @@
 # TaskbarX
-TaskbarX FOR WIN7
-
-#### 感谢：
-- 本程序基于图拉丁硬件检测源码：www.tbtool.cc [秃顶的小P孩/86738619]
 
 #### 功能：
 - CPU/GPU/内存占用
@@ -17,6 +13,9 @@ TaskbarX FOR WIN7
 - 可能需要管理员权限运行
 - 最终运行效果只在WINx64位下测试
 - 温度检测可能不支持较新的硬件，此类问题不需要反馈，无力解决
+
+#### 感谢：
+- 本程序基于图拉丁硬件检测源码：www.tbtool.cc [秃顶的小P孩/86738619]
 
 #### 下载：
 https://github.com/miaomiaosoft/TaskbarX/releases

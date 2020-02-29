@@ -24,4 +24,4 @@
 https://github.com/miaomiaosoft/TaskbarX/releases
 
 #### 截图：
-![image](https://raw.githubusercontent.com/miaomiaosoft/TaskbarX/master/images/2020-02-25_182130.jpg)
+![image](https://raw.githubusercontent.com/miaomiaosoft/TaskbarX/master/images/2020-02-29_204505.jpg)
